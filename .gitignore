@@ -1,0 +1,10 @@
+# Secrets
+.env
+credentials.json
+token.json
+client_secret_*.json
+
+# Python junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints
